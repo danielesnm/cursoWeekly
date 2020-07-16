@@ -1,41 +1,18 @@
-<!DOCTYPE html>
-<html lang="" xml:lang="">
-  <head>
-    <title>Weekly Calendar Planning Activity   (Actividad de Planificacion del Horario Semanal)</title>
-    <meta charset="utf-8" />
-    <meta name="author" content="Daniel Salazar Frías" />
-    <link href="libs/remark-css/default.css" rel="stylesheet" />
-    <link href="libs/remark-css/metropolis.css" rel="stylesheet" />
-    <link href="libs/remark-css/chocolate-fonts.css" rel="stylesheet" />
-    <script src="libs/htmlwidgets/htmlwidgets.js"></script>
-    <script src="libs/jquery/jquery.min.js"></script>
-    <link href="libs/leaflet/leaflet.css" rel="stylesheet" />
-    <script src="libs/leaflet/leaflet.js"></script>
-    <link href="libs/leafletfix/leafletfix.css" rel="stylesheet" />
-    <script src="libs/Proj4Leaflet/proj4-compressed.js"></script>
-    <script src="libs/Proj4Leaflet/proj4leaflet.js"></script>
-    <link href="libs/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
-    <script src="libs/leaflet-binding/leaflet.js"></script>
-    <link href="libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
-    <script src="libs/datatables-binding/datatables.js"></script>
-    <link href="libs/dt-core/css/jquery.dataTables.min.css" rel="stylesheet" />
-    <link href="libs/dt-core/css/jquery.dataTables.extra.css" rel="stylesheet" />
-    <script src="libs/dt-core/js/jquery.dataTables.min.js"></script>
-    <link href="libs/crosstalk/css/crosstalk.css" rel="stylesheet" />
-    <script src="libs/crosstalk/js/crosstalk.min.js"></script>
-  </head>
-  <body>
-    <textarea id="source">
-class: center, middle, inverse, title-slide
-
-# Weekly Calendar Planning Activity <br> (Actividad de Planificacion del Horario Semanal)
-## Joan Toglia
-### Daniel Salazar Frías
-### Universidad de Granada
-### 2020/06/26 (updated: 2020-07-16)
-
 ---
-
+title: "Weekly Calendar Planning Activity <br> (Actividad de Planificacion del Horario Semanal)"
+subtitle: "Joan Toglia"
+author: "Daniel Salazar Frías"
+institute: "Universidad de Granada"
+date: "2020/06/26 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [default, metropolis, chocolate-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
 
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/1.%20WCPA%20imagen.png?raw=true)
 background-position: 5% 50%
@@ -44,7 +21,7 @@ class: center, top
 
 # __Orden de la presentación__
 --
-&lt;br&gt;&lt;br&gt;
+<br><br>
 .pull-right[
 ## 1. Información general 
 ## 2. Descripción del instrumento
@@ -54,7 +31,9 @@ class: center, top
 
 
 
-
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
 
 ---
 class: inverse, center, middle
@@ -64,7 +43,7 @@ class: inverse, center, middle
 
 ---
 layout: false 
-background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-SGwU-qc6Zuge6-oCcYes-YjEhZQm_Rg1Tg&amp;usqp=CAU)
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-SGwU-qc6Zuge6-oCcYes-YjEhZQm_Rg1Tg&usqp=CAU)
 background-position: 50% 90%
 background-size: 80%
 # **Información general**
@@ -87,8 +66,8 @@ background-size: 27%
 
 .pull-left[## __¿Qué son las funciones executivas?__
 _Conjunto de habilidades cognitivas_ que son críticas para el _control, coordinación y regulación_ de pensamientos, emociones y acciones dirigidas a objetivos.  
-[(Zelazo &amp; Carlson, 2012)](https://psycnet.apa.org/record/2012-31092-006) 
-&lt;br&gt;&lt;br&gt;&lt;br&gt;
+[(Zelazo & Carlson, 2012)](https://psycnet.apa.org/record/2012-31092-006) 
+<br><br><br>
 ]
 
 .pull-right[
@@ -99,14 +78,14 @@ _Conjunto de habilidades cognitivas_ que son críticas para el _control, coordin
 5. Automonitoreo
 ]
 
-&lt;br&gt;&lt;br&gt;&lt;br&gt;
+<br><br><br>
 ***
 --
 
 Contribuyen al _control cognitivo y la autorregulación_ necesarios para la planificación, organización y resolución de problemas en _situaciones novedosas, complejas o desafiantes._ [(Prencipen et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21044790/) 
 
 ---
-background-image: url(https://cdn.mindful.org/MindfulMoment.jpg?q=80&amp;fm=jpg&amp;fit=crop&amp;w=1920&amp;h=1080)
+background-image: url(https://cdn.mindful.org/MindfulMoment.jpg?q=80&fm=jpg&fit=crop&w=1920&h=1080)
 background-position: 5% 80%
 background-size: 55%
 
@@ -117,8 +96,8 @@ background-size: 55%
 ***
 
 .pull-right[
-&lt;br&gt;
-&gt;1. Productividad y empleo    
+<br>
+>1. Productividad y empleo    
 2. Participacion en actividades sociales  
 3. Adherencia al tratamiento  
 3. Calidad de vida  
@@ -143,13 +122,13 @@ Normalmente se utilizan test con tareas abstractas para identificar deficits en 
 5. Automonitoreo
 ]
 
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+<br><br><br><br><br><br><br><br><br><br>
 --
 
-&gt;## **No predicen el rendimiento en tareas complejas en el mundo real!!**
+>## **No predicen el rendimiento en tareas complejas en el mundo real!!**
 
 ---
-background-image: url(https://images.creativemarket.com/0.1.0/ps/6550506/600/400/m2/fpnw/wm0/creative-people-2-.jpg?1560760178&amp;s=81fc4f6fa2334996556bc73e7f484c72)
+background-image: url(https://images.creativemarket.com/0.1.0/ps/6550506/600/400/m2/fpnw/wm0/creative-people-2-.jpg?1560760178&s=81fc4f6fa2334996556bc73e7f484c72)
 background-position: 0% 60%
 background-size: 55%
 
@@ -159,9 +138,9 @@ background-size: 55%
 
 --
 
-.pull-right[&gt;Personas con deficits en FE, pueden desempeñarse bien en el contexto de actividades rutinarias...  
+.pull-right[>Personas con deficits en FE, pueden desempeñarse bien en el contexto de actividades rutinarias...  
 
-&gt;...y tener  dificultades  durante actividades novedosas, que requieren la capacidad de tener en cuenta diferentes variables simultáneamente mientras se planifica y organiza la información.
+>...y tener  dificultades  durante actividades novedosas, que requieren la capacidad de tener en cuenta diferentes variables simultáneamente mientras se planifica y organiza la información.
 ]
 
 
@@ -185,10 +164,10 @@ background-size: 25%, 28%
 #**Información general**
 ##**Observación directa del desempeño en _actvidades_**
 
-&gt;###Performance-based measures of Executive Functions  
+>###Performance-based measures of Executive Functions  
 
-&lt;br&gt;
-.pull-left[**Mulitple Errand Tests** [(Shallice &amp; Burgess, 1991)](https://pubmed.ncbi.nlm.nih.gov/2043945/).]
+<br>
+.pull-left[**Mulitple Errand Tests** [(Shallice & Burgess, 1991)](https://pubmed.ncbi.nlm.nih.gov/2043945/).]
 .pull-right[**Executive Function Performance Test** [(Baum et al., 2016)](https://pubmed.ncbi.nlm.nih.gov/27150506/).]
 
 
@@ -219,14 +198,14 @@ background-size: 100%
 
 ---
 # **Información general**
-.pull-left[&gt;##__¿Para qué pacientes es apropiada?__##
+.pull-left[>##__¿Para qué pacientes es apropiada?__##
 ]
 
 .center-column[###1. Independencia en AVD básicas.  
 ###2. Atención durante al menos 10 minutos.  
 ###3. Orientación y comprensión de oraciones.]
 
-&lt;br&gt;
+<br>
 
 | Trastornos neurológicos |Trastornos mentales|Trastornos del desarrollo| 
 |:------:|:------:|:-----:|
@@ -244,11 +223,11 @@ background-size: 65%
 
 
 #**Información general**
-&gt;##**¿Para qué grupos de edad es apropiada?**
+>##**¿Para qué grupos de edad es apropiada?**
 
 ##- 12 a 94 años de edad  
 ####Existen datos normativos para edades de 16 a 94 años de edad
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+<br><br><br><br><br><br><br><br><br><br><br>
 ***
 
 ---
@@ -265,7 +244,7 @@ class: inverse, center, middle
 
 ##**Weekly Calendar Planning Activity** 
 
-&gt;- Ingresar de 17/18 citas en un calendario semanal (10 en la versión corta) .
+>- Ingresar de 17/18 citas en un calendario semanal (10 en la versión corta) .
 - Algunas de las citas son fijas y otras tienen varias opciones de día y hora.
 - Se requiere planificación para evitar conflictos de tiempo
 
@@ -274,9 +253,9 @@ class: inverse, center, middle
 --
 
 .left-column[###(__Level I__)  
-&lt;br&gt;
+<br>
 ###__[(Level II)](www.google.com)__
-&lt;br&gt;
+<br>
 ###(__Level III__)
 ]  
 
@@ -296,9 +275,9 @@ class: inverse, center, middle
 
 ---
 #**Descripcion de la prueba**
-&gt;##** Similitudes entre los 3 niveles de complejidad**  
+>##** Similitudes entre los 3 niveles de complejidad**  
 
-&lt;br&gt;  
+<br>  
 
 jnjnkn
 
@@ -334,7 +313,7 @@ Basically **xaringan** injected the chakra of R Markdown (minus Pandoc) into **r
 
 You can see an introduction of remark.js from [its homepage](https://remarkjs.com). You should read the [remark.js Wiki](https://github.com/gnab/remark/wiki) at least once to know how to
 
-- create a new slide (Markdown syntax&lt;sup&gt;*&lt;/sup&gt; and slide properties);
+- create a new slide (Markdown syntax<sup>*</sup> and slide properties);
 
 - format a slide (e.g. text alignment);
 
@@ -347,7 +326,7 @@ It is important to be familiar with remark.js before you can understand the opti
 .footnote[[*] It is different with Pandoc's Markdown! It is limited but should be enough for presentation purposes. Come on... You do not need a slide for the Table of Contents! Well, the Markdown support in remark.js [may be improved](https://github.com/gnab/remark/issues/142) in the future.]
 
 ---
-background-image: url(https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+background-image: url(`r xaringan:::karl`)
 background-size: cover
 class: center, bottom, inverse
 
@@ -404,7 +383,7 @@ Some differences between using remark.js (left) and using **xaringan** (right):
 
 1. Provide an option `autoplay`;
 
-1. MathJax just works;&lt;sup&gt;*&lt;/sup&gt;
+1. MathJax just works;<sup>*</sup>
 
 1. Highlight code with `{{}}`;
 
@@ -417,13 +396,13 @@ Some differences between using remark.js (left) and using **xaringan** (right):
 
 # Math Expressions
 
-You can write LaTeX math expressions inside a pair of dollar signs, e.g. &amp;#36;\alpha+\beta$ renders `\(\alpha+\beta\)`. You can use the display style with double dollar signs:
+You can write LaTeX math expressions inside a pair of dollar signs, e.g. &#36;\alpha+\beta$ renders $\alpha+\beta$. You can use the display style with double dollar signs:
 
 ```
 $$\bar{X}=\frac{1}{n}\sum_{i=1}^nX_i$$
 ```
 
-`$$\bar{X}=\frac{1}{n}\sum_{i=1}^nX_i$$`
+$$\bar{X}=\frac{1}{n}\sum_{i=1}^nX_i$$
 
 Limitations:
 
@@ -437,40 +416,23 @@ Limitations:
 
 # R Code
 
-
-```r
+```{r comment='#'}
 # a boring regression
 fit = lm(dist ~ 1 + speed, data = cars)
 coef(summary(fit))
-```
-
-```
-#               Estimate Std. Error   t value     Pr(&gt;|t|)
-# (Intercept) -17.579095  6.7584402 -2.601058 1.231882e-02
-# speed         3.932409  0.4155128  9.463990 1.489836e-12
-```
-
-```r
 dojutsu = c('地爆天星', '天照', '加具土命', '神威', '須佐能乎', '無限月読')
 grep('天', dojutsu, value = TRUE)
-```
-
-```
-# [1] "地爆天星" "天照"
 ```
 
 ---
 
 # R Plots
 
-
-```r
+```{r cars, fig.height=4, dev='svg'}
 par(mar = c(4, 4, 1, .1))
 plot(cars, pch = 19, col = 'darkgray', las = 1)
 abline(fit, lwd = 2)
 ```
-
-![](Presentacion-NInja-WCPA_files/figure-html/cars-1.svg)&lt;!-- --&gt;
 
 ---
 
@@ -478,66 +440,9 @@ abline(fit, lwd = 2)
 
 If you want to generate a table, make sure it is in the HTML format (instead of Markdown or other formats), e.g.,
 
-
-```r
+```{r}
 knitr::kable(head(iris), format = 'html')
 ```
-
-&lt;table&gt;
- &lt;thead&gt;
-  &lt;tr&gt;
-   &lt;th style="text-align:right;"&gt; Sepal.Length &lt;/th&gt;
-   &lt;th style="text-align:right;"&gt; Sepal.Width &lt;/th&gt;
-   &lt;th style="text-align:right;"&gt; Petal.Length &lt;/th&gt;
-   &lt;th style="text-align:right;"&gt; Petal.Width &lt;/th&gt;
-   &lt;th style="text-align:left;"&gt; Species &lt;/th&gt;
-  &lt;/tr&gt;
- &lt;/thead&gt;
-&lt;tbody&gt;
-  &lt;tr&gt;
-   &lt;td style="text-align:right;"&gt; 5.1 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 3.5 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 1.4 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 0.2 &lt;/td&gt;
-   &lt;td style="text-align:left;"&gt; setosa &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td style="text-align:right;"&gt; 4.9 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 3.0 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 1.4 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 0.2 &lt;/td&gt;
-   &lt;td style="text-align:left;"&gt; setosa &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td style="text-align:right;"&gt; 4.7 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 3.2 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 1.3 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 0.2 &lt;/td&gt;
-   &lt;td style="text-align:left;"&gt; setosa &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td style="text-align:right;"&gt; 4.6 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 3.1 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 1.5 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 0.2 &lt;/td&gt;
-   &lt;td style="text-align:left;"&gt; setosa &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td style="text-align:right;"&gt; 5.0 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 3.6 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 1.4 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 0.2 &lt;/td&gt;
-   &lt;td style="text-align:left;"&gt; setosa &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td style="text-align:right;"&gt; 5.4 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 3.9 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 1.7 &lt;/td&gt;
-   &lt;td style="text-align:right;"&gt; 0.4 &lt;/td&gt;
-   &lt;td style="text-align:left;"&gt; setosa &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 
 ---
 layout: false 
@@ -554,27 +459,19 @@ See the next page for two HTML widgets.
 
 ---
 
-
-```r
+```{r out.width='100%', fig.height=6, eval=require('leaflet')}
 library(leaflet)
-leaflet() %&gt;% addTiles() %&gt;% setView(-93.65, 42.0285, zoom = 17)
+leaflet() %>% addTiles() %>% setView(-93.65, 42.0285, zoom = 17)
 ```
-
-<div id="htmlwidget-c371f0adc74956702a2e" style="width:100%;height:432px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-c371f0adc74956702a2e">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]}],"setView":[[42.0285,-93.65],17,[]]},"evals":[],"jsHooks":[]}</script>
 
 ---
 
-
-```r
+```{r eval=require('DT'), tidy=FALSE}
 DT::datatable(
   head(iris, 10),
   fillContainer = FALSE, options = list(pageLength = 8)
 )
 ```
-
-<div id="htmlwidget-f1ddfd2bdd25288a29af" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-f1ddfd2bdd25288a29af">{"x":{"filter":"none","fillContainer":false,"data":[["1","2","3","4","5","6","7","8","9","10"],[5.1,4.9,4.7,4.6,5,5.4,4.6,5,4.4,4.9],[3.5,3,3.2,3.1,3.6,3.9,3.4,3.4,2.9,3.1],[1.4,1.4,1.3,1.5,1.4,1.7,1.4,1.5,1.4,1.5],[0.2,0.2,0.2,0.2,0.2,0.4,0.3,0.2,0.2,0.1],["setosa","setosa","setosa","setosa","setosa","setosa","setosa","setosa","setosa","setosa"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>Sepal.Length<\/th>\n      <th>Sepal.Width<\/th>\n      <th>Petal.Length<\/th>\n      <th>Petal.Width<\/th>\n      <th>Species<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":8,"columnDefs":[{"className":"dt-right","targets":[1,2,3,4]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"lengthMenu":[8,10,25,50,100]}},"evals":[],"jsHooks":[]}</script>
 
 ---
 
@@ -657,7 +554,7 @@ DT::datatable(
 
 - There are several ways to build incremental slides. See [this presentation](https://slides.yihui.org/xaringan/incremental.html) for examples.
 
-- The option `highlightLines: true` of `nature` will highlight code lines that start with `*`, or are wrapped in `{{ }}`, or have trailing comments `#&lt;&lt;`;
+- The option `highlightLines: true` of `nature` will highlight code lines that start with `*`, or are wrapped in `{{ }}`, or have trailing comments `#<<`;
 
     ```yaml
     output:
@@ -695,22 +592,17 @@ This is invalid R code, so it is a plain fenced code block that is not executed.
 An example using `{{}}`:
 
 ````
-```{r tidy=FALSE}
+`r ''````{r tidy=FALSE}
 if (TRUE) {
 *{{ message("Very important!") }}
 }
 ```
 ````
 Output:
-
-```r
+```{r tidy=FALSE}
 if (TRUE) {
-* message("Very important!") 
+{{ message("Very important!") }}
 }
-```
-
-```
-## Very important!
 ```
 
 It is valid R code so you can run it. Note that `{{}}` can wrap an R expression of multiple lines.
@@ -720,27 +612,26 @@ It is valid R code so you can run it. Note that `{{}}` can wrap an R expression 
 
 # Some Tips
 
-An example of using the trailing comment `#&lt;&lt;` to highlight lines:
+An example of using the trailing comment `#<<` to highlight lines:
 
 ````markdown
-```{r tidy=FALSE}
+`r ''````{r tidy=FALSE}
 library(ggplot2)
 ggplot(mtcars) + 
   aes(mpg, disp) + 
-  geom_point() +   #&lt;&lt;
-  geom_smooth()    #&lt;&lt;
+  geom_point() +   #<<
+  geom_smooth()    #<<
 ```
 ````
 
 Output:
 
-
-```r
+```{r tidy=FALSE, eval=FALSE}
 library(ggplot2)
 ggplot(mtcars) + 
   aes(mpg, disp) + 
-* geom_point() +
-* geom_smooth()
+  geom_point() +   #<<
+  geom_smooth()    #<<
 ```
 
 ---
@@ -750,20 +641,13 @@ ggplot(mtcars) +
 When you enable line-highlighting, you can also use the chunk option `highlight.output` to highlight specific lines of the text output from a code chunk. For example, `highlight.output = TRUE` means highlighting all lines, and `highlight.output = c(1, 3)` means highlighting the first and third line.
 
 ````md
-```{r, highlight.output=c(1, 3)}
+`r ''````{r, highlight.output=c(1, 3)}
 head(iris)
 ```
 ````
 
-
-```
-*##   Sepal.Length Sepal.Width Petal.Length Petal.Width Species
-## 1          5.1         3.5          1.4         0.2  setosa
-*## 2          4.9         3.0          1.4         0.2  setosa
-## 3          4.7         3.2          1.3         0.2  setosa
-## 4          4.6         3.1          1.5         0.2  setosa
-## 5          5.0         3.6          1.4         0.2  setosa
-## 6          5.4         3.9          1.7         0.4  setosa
+```{r, highlight.output=c(1, 3), echo=FALSE}
+head(iris)
 ```
 
 Question: what does `highlight.output = c(TRUE, FALSE)` mean? (Hint: think about R's recycling of vectors)
@@ -795,7 +679,7 @@ Question: what does `highlight.output = c(TRUE, FALSE)` mean? (Hint: think about
     ```js
     remark.macros.scale = function (percentage) {
       var url = this;
-      return '&lt;img src="' + url + '" style="width: ' + percentage + '" /&gt;';
+      return '<img src="' + url + '" style="width: ' + percentage + '" />';
     };
     ```
 
@@ -808,7 +692,7 @@ Question: what does `highlight.output = c(TRUE, FALSE)` mean? (Hint: think about
     will be translated to
     
     ```html
-    &lt;img src="image.jpg" style="width: 50%" /&gt;
+    <img src="image.jpg" style="width: 50%" />
     ```
 
 ---
@@ -866,20 +750,8 @@ See [yihui/xaringan#83](https://github.com/yihui/xaringan/issues/83) for an exam
 
 Don't want to learn CSS? Okay, you can use some user-contributed themes. A theme typically consists of two CSS files `foo.css` and `foo-fonts.css`, where `foo` is the theme name. Below are some existing themes:
 
-
-```r
+```{r}
 names(xaringan:::list_css())
-```
-
-```
-##  [1] "chocolate-fonts"  "chocolate"        "default-fonts"    "default"         
-##  [5] "duke-blue"        "fc-fonts"         "fc"               "hygge-duke"      
-##  [9] "hygge"            "ki-fonts"         "ki"               "kunoichi"        
-## [13] "lucy-fonts"       "lucy"             "metropolis-fonts" "metropolis"      
-## [17] "middlebury-fonts" "middlebury"       "ninjutsu"         "rladies-fonts"   
-## [21] "rladies"          "robot-fonts"      "robot"            "rutgers-fonts"   
-## [25] "rutgers"          "shinobi"          "tamu-fonts"       "tamu"            
-## [29] "uo-fonts"         "uo"               "uol-fonts"        "uol"
 ```
 
 ---
@@ -910,13 +782,13 @@ background-position: 90% 8%
 
 # Sharingan
 
-The R package name **xaringan** was derived&lt;sup&gt;1&lt;/sup&gt; from **Sharingan**, a dōjutsu in the Japanese anime _Naruto_ with two abilities:
+The R package name **xaringan** was derived<sup>1</sup> from **Sharingan**, a dōjutsu in the Japanese anime _Naruto_ with two abilities:
 
 - the "Eye of Insight"
 
 - the "Eye of Hypnotism"
 
-I think a presentation is basically a way to communicate insights to the audience, and a great presentation may even "hypnotize" the audience.&lt;sup&gt;2,3&lt;/sup&gt;
+I think a presentation is basically a way to communicate insights to the audience, and a great presentation may even "hypnotize" the audience.<sup>2,3</sup>
 
 .footnote[
 [1] In Chinese, the pronounciation of _X_ is _Sh_ /ʃ/ (as in _shrimp_). Now you should have a better idea of how to pronounce my last name _Xie_.
@@ -965,126 +837,3 @@ class: center, middle
 Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
 
 The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](http://yihui.org/knitr), and [R Markdown](https://rmarkdown.rstudio.com).
-    </textarea>
-<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
-<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
-<script>var slideshow = remark.create({
-"highlightStyle": "github",
-"highlightLines": true,
-"countIncrementalSlides": false
-});
-if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
-  window.dispatchEvent(new Event('resize'));
-});
-(function(d) {
-  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
-  if (!r) return;
-  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
-  d.head.appendChild(s);
-})(document);
-
-(function(d) {
-  var el = d.getElementsByClassName("remark-slides-area");
-  if (!el) return;
-  var slide, slides = slideshow.getSlides(), els = el[0].children;
-  for (var i = 1; i < slides.length; i++) {
-    slide = slides[i];
-    if (slide.properties.continued === "true" || slide.properties.count === "false") {
-      els[i - 1].className += ' has-continuation';
-    }
-  }
-  var s = d.createElement("style");
-  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
-  d.head.appendChild(s);
-})(document);
-// delete the temporary CSS (for displaying all slides initially) when the user
-// starts to view slides
-(function() {
-  var deleted = false;
-  slideshow.on('beforeShowSlide', function(slide) {
-    if (deleted) return;
-    var sheets = document.styleSheets, node;
-    for (var i = 0; i < sheets.length; i++) {
-      node = sheets[i].ownerNode;
-      if (node.dataset["target"] !== "print-only") continue;
-      node.parentNode.removeChild(node);
-    }
-    deleted = true;
-  });
-})();
-(function() {
-  "use strict"
-  // Replace <script> tags in slides area to make them executable
-  var scripts = document.querySelectorAll(
-    '.remark-slides-area .remark-slide-container script'
-  );
-  if (!scripts.length) return;
-  for (var i = 0; i < scripts.length; i++) {
-    var s = document.createElement('script');
-    var code = document.createTextNode(scripts[i].textContent);
-    s.appendChild(code);
-    var scriptAttrs = scripts[i].attributes;
-    for (var j = 0; j < scriptAttrs.length; j++) {
-      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
-    }
-    scripts[i].parentElement.replaceChild(s, scripts[i]);
-  }
-})();
-(function() {
-  var links = document.getElementsByTagName('a');
-  for (var i = 0; i < links.length; i++) {
-    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
-      links[i].target = '_blank';
-    }
-  }
-})();
-// adds .remark-code-has-line-highlighted class to <pre> parent elements
-// of code chunks containing highlighted lines with class .remark-code-line-highlighted
-(function(d) {
-  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
-  const preParents = [];
-  const findPreParent = function(line, p = 0) {
-    if (p > 1) return null; // traverse up no further than grandparent
-    const el = line.parentElement;
-    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
-  };
-
-  for (let line of hlines) {
-    let pre = findPreParent(line);
-    if (pre && !preParents.includes(pre)) preParents.push(pre);
-  }
-  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
-})(document);</script>
-
-<script>
-slideshow._releaseMath = function(el) {
-  var i, text, code, codes = el.getElementsByTagName('code');
-  for (i = 0; i < codes.length;) {
-    code = codes[i];
-    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
-      text = code.textContent;
-      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
-          /^\$\$(.|\s)+\$\$$/.test(text) ||
-          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
-        code.outerHTML = code.innerHTML;  // remove <code></code>
-        continue;
-      }
-    }
-    i++;
-  }
-};
-slideshow._releaseMath(document);
-</script>
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-(function () {
-  var script = document.createElement('script');
-  script.type = 'text/javascript';
-  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
-  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
-    script.src  = script.src.replace(/^https?:/, '');
-  document.getElementsByTagName('head')[0].appendChild(script);
-})();
-</script>
-  </body>
-</html>
