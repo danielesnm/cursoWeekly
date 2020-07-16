@@ -279,7 +279,7 @@ class: inverse, center, middle
 
 <br>  
 
-jnjnkn
+La misma hoja de instrucciones del cliente, reglas y horario semanal se utilizan en las diferentes versiones
 
 
 
