@@ -274,12 +274,33 @@ class: inverse, center, middle
 
 
 ---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Horario%20semanal.jpg?raw=true)
+background-position: 90% 85%
+background-size: 40%
 #**Descripcion de la prueba**
 >##** Similitudes entre los 3 niveles de complejidad**  
 
-<br>  
+Hoja de **instrucciones, reglas y horario semanal**    
 
-La misma hoja de instrucciones del cliente, reglas y horario semanal se utilizan en las diferentes versiones
+--
+
+###_Lidiar con problemas_  
+.pull-left[1. Espacios para citas de **15 min.** de 7:00-17:00 y **30 min.** de 18:00-20:00. 
+2. Sábado y domingo estan **invertidos.**  
+3. **Termina a las 20:00** a pesar de que una cita puede extenderse después de las 20:00. 
+
+<br>
+_Brindan la oportunidad de observar cómo las personas afrontan y se adaptan a problemas inesperados._
+]
+
+  
+---
+#**Descripcion de la prueba**
+>##** Similitudes entre los 3 niveles de complejidad**  
+
+
+
+
 
 
 
