@@ -280,7 +280,6 @@ background-size: 40%
 #**Descripcion de la prueba**
 >##** Similitudes entre los 3 niveles de complejidad**  
 
-Hoja de **instrucciones, reglas y horario semanal**    
 
 --
 
@@ -298,9 +297,34 @@ _Brindan la oportunidad de observar cómo las personas afrontan y se adaptan a p
 #**Descripcion de la prueba**
 >##** Similitudes entre los 3 niveles de complejidad**  
 
+###_Reglas_  
 
+1. Una vez que haya apuntado una cita en el horario, no podrá tacharla.
+2. Avíseme cuando sean las ________horas.
+3. Deje el __________libre. (No programe ninguna cita o tarea ese día.) 
+4. No conteste a ninguna pregunta del examinador durante esta actividad.
+5. Avise al examinador cuando haya terminado.  
 
+--
 
+.left-column[###**Inhibicion**
+
+###**[Memoria Prospectiva](www.google.com)**
+
+###**M. de trabajo**]
+
+.right-column[- Capacidad de restringir acciones o respuestas inmediatas, evitando distracciones (1, 3 y 4).  
+<br>
+- Capacidad de recordar realizar acciones futuras (2 y 5).  
+<br>
+- Capacidad de retener y manipular información durante una tarea (1-5).
+]
+
+???
+
+1. El cumplimiento de las reglas requiere una cuidadosa planificación y revisión de la lista antes de ingresar a las citas
+
+2. en general, las reglas imponen mayores exigencias a la memoria de trabajo porque aumentan la cantidad de información que el paciente necesita para realizar un seguimiento al tiempo que participa en la actividad
 
 
 
