@@ -344,13 +344,30 @@ class: inverse, center, middle
 # **Administración**
 >##** Materiales necesarios**  
 
-As a presentation ninja, you certainly should not be satisfied by the "Hello World" example. You need to understand more about two things:
 
-1. The [remark.js](https://remarkjs.com) library;
+.pull-left[**Formularios para participantes**  
+- Hoja de instrucciones y reglas [(A.1)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20participante/Apendice%201.%20Hoja%20de%20instrucciones%20y%20reglas.pdf) 
+- Lista de citas y tareas a programar [(A.2)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20participante/Apendice%202.%20Lista%20de%20citas%20y%20tareas%20a%20programar.pdf)
+- Calendario semanal en blanco y ejemplos [(A.3)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20participante/Apendice%203.%20Calendario%20semanal%20en%20blanco%20y%20ejemplos.pdf)
+- Boligrafo (lápices no)
+- 2 resaltadores de colores
+- 2 folios en blanco
+- Un reloj (a la vista)
+]
 
-1. The **xaringan** package;
+.pull-right[**Formularios para terapeutas**  
+- Cronómetro
+- Instrucciones [(A.4)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20terapeuta/Apendice%204.%20Instrucciones.pdf) 
+- Formulario de datos [(A.5)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20terapeuta/Apendice%205.%20Formulario%20de%20datos%20del%20paciente.pdf)
+- Ficha de registro [(A.6)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20terapeuta/Apendice%206.%20Ficha%20de%20registro.pdf)
+- Entrevista posterior [(A.7)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20terapeuta/Apendice%207.%20Entrevista%20posterior.pdf)
+- Formulario de observaciones [(A.8)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20terapeuta/Apendice%208.%20Formulario%20de%20observaciones.pdf)
+]
 
-Basically **xaringan** injected the chakra of R Markdown (minus Pandoc) into **remark.js**. The slides are rendered by remark.js in the web browser, and the Markdown source needed by remark.js is generated from R Markdown (**knitr**).
+***
+
+**Formularios Para calificacion(despues de la administracion)**
+- Formulario de calificación [(A.9)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/formularios%20para%20calificacion/Apendice%209.%20Formulario%20de%20calificacion.pdf)
 
 ---
 
