@@ -267,16 +267,22 @@ class: inverse, center, middle
 + No se le da ayudas.
 + Requiere planeación y organización]
 
-.center-column[+ Lista de citas desorganizada.   
+.center-column[+ Citas en párrafo.   
 + No se le da ayudas.
-+ Requiere planeación y organización]
++ Requiere clasificación de información relevante y planificación previa]
 
 
 
 ---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Level%20I.png?raw=true),url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Level%20II.png?raw=true),url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Level%20III.png?raw=true)
+background-position: 5% 0%, 95% 0%, 50% 100%
+background-size: 40%, 40%, 39%
+#**Descripcion de la prueba**
+
+---
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Horario%20semanal.jpg?raw=true)
-background-position: 90% 85%
-background-size: 40%
+background-position: 95% 85%
+background-size: 45%
 #**Descripcion de la prueba**
 >##** Similitudes entre los 3 niveles de complejidad**  
 
@@ -305,6 +311,8 @@ _Brindan la oportunidad de observar cómo las personas afrontan y se adaptan a p
 4. No conteste a ninguna pregunta del examinador durante esta actividad.
 5. Avise al examinador cuando haya terminado.  
 
+***
+
 --
 
 .left-column[###**Inhibicion**
@@ -327,22 +335,14 @@ _Brindan la oportunidad de observar cómo las personas afrontan y se adaptan a p
 2. en general, las reglas imponen mayores exigencias a la memoria de trabajo porque aumentan la cantidad de información que el paciente necesita para realizar un seguimiento al tiempo que participa en la actividad
 
 
+---
+class: inverse, center, middle
+
+# __3. Administración__
 
 ---
-background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/WVI.png?raw=true)
-background-position: 50% 50%
-background-size: 20%
-class: center, bottom, inverse
-
-# You only live once!
-
----
-layout: false 
-background-image: url(https://images.squarespace-cdn.com/content/v1/596d1d73e58c62ed965e22d5/1507131572723-2R16LZ53X0YNPIDZ649O/ke17ZwdGBToddI8pDm48kLUtlpycEpcJji-VCkTnEB1Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SolCep30WpQRIjoQKeSzBBWdBIuIPdH7YGk2LBjXbaU0nN6hSdZxWoZv2kAsZsz8w/WCPA+Image.png?format=500w)
-background-position: 95% 0%
-background-size: 30%
-
-# Hello Ninja
+# **Administración**
+>##** Materiales necesarios**  
 
 As a presentation ninja, you certainly should not be satisfied by the "Hello World" example. You need to understand more about two things:
 
