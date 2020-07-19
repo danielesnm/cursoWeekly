@@ -370,7 +370,19 @@ class: inverse, center, middle
 - Formulario de calificación [(A.9)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/formularios%20para%20calificacion/Apendice%209.%20Formulario%20de%20calificacion.pdf)
 
 ---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Acomodo.png?raw=true)
+background-position: 50% 65%
+background-size: 80%
+# **Administración**
+>##** Acomodo de los materiales**  
 
+
+---
+# **Administración**
+>##** Acomodo de los materiales**  
+
+
+---
 # remark.js
 
 You can see an introduction of remark.js from [its homepage](https://remarkjs.com). You should read the [remark.js Wiki](https://github.com/gnab/remark/wiki) at least once to know how to
