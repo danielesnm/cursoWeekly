@@ -430,13 +430,27 @@ background-size: 50%
 investigar la familiaridad del participante con el uso de un calendario semanal, incluido el tipo de calendario que usa la persona.
 
 ---
-background-image: url()
-background-position: 95% 35%
-background-size: 50%
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20APHS%201.png?raw=true)
+background-position: 95% 25%
+background-size: 60%
 # **Administración**
->##** Formulario de datos sobre el paciente** 
+>##** Ficha de registro de datos de la APHS**  
 
-# I was so happy to have discovered remark.js!
+<br><br>
+
+
+##_Tiempo de planificación_  
+
+***
+
+<br><br>
+
+1. registre la hora en que el cliente ingresa a la primera cita en el calendario semanal. El tiempo de planificación se ingresa en minutos y segundos.
+
+2. tiempo total: registre el tiempo cuando el cliente declara que él o ella ha terminado o deja el bolígrafo. esto incluye tanto el tiempo de planificación como el tiempo para completar toda la tarea
+
+???
+La razón de este método es que muchas personas sanas entran inmediatamente a la primera cita porque es fija (sin opciones). Después de ingresar a la primera cita, a menudo se dan cuenta de que algunas de las citas son variables, por lo que ajustan su enfoque y hacen una pausa, planifican y releen la lista completa. registrar ambos tiempos de planificación proporciona una medida más precisa del tiempo dedicado a la planificación.
 
 ---
 class: inverse, middle, center
