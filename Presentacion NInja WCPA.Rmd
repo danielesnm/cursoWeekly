@@ -441,108 +441,135 @@ background-size: 60%
 
 ##_Tiempo de planificación_  
 
-***
 
 <br><br>
 
-1. registre la hora en que el cliente ingresa a la primera cita en el calendario semanal. El tiempo de planificación se ingresa en minutos y segundos.
+***  
 
-2. tiempo total: registre el tiempo cuando el cliente declara que él o ella ha terminado o deja el bolígrafo. esto incluye tanto el tiempo de planificación como el tiempo para completar toda la tarea
+--
+
+1. Registrar la hora en que ingresa la primera cita en el calendario semanal. El tiempo de planificación se ingresa en minutos y segundos.
+
+2. Tiempo total: registre el tiempo cuando el cliente declara que él o ella ha terminado o deja el bolígrafo. esto incluye tanto el tiempo de planificación como el tiempo para completar toda la tarea
 
 ???
 La razón de este método es que muchas personas sanas entran inmediatamente a la primera cita porque es fija (sin opciones). Después de ingresar a la primera cita, a menudo se dan cuenta de que algunas de las citas son variables, por lo que ajustan su enfoque y hacen una pausa, planifican y releen la lista completa. registrar ambos tiempos de planificación proporciona una medida más precisa del tiempo dedicado a la planificación.
 
 ---
-class: inverse, middle, center
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20APHS%202.png?raw=true)
+background-position: 95% 25%
+background-size: 60%
+# **Administración**
+>##** Ficha de registro de datos de la APHS** 
 
-# Using xaringan
+<br><br>
+
+
+##_Reglas:_  
+_1. Preguntas respondidas_  
+<br>
+
+***
+
+--
+
+Las preguntas deben hacerse **después de 2, 5 y 7 minutos**, de haber empezado la actividad.
+
+1. ¿Sabes como estará el clima  mañana? 
+2. ¿Tienes alguna mascota?
+3. ¿Qué día es tu cumpleaños?
+
+
+Si la persona responde alguna de las 3 preguntas, la regla 1 se considera como no seguida
+
+???
+Para cada una de las preguntas, el examinador debe registrar sí o no para indicar si el cliente respondió a la pregunta.
+---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20APHS%202.png?raw=true)
+background-position: 95% 25%
+background-size: 60%
+# **Administración**
+>##** Ficha de registro de datos de la APHS** 
+
+<br><br>
+
+
+##_Reglas:_  
+_2. Avisar la hora _  
+<br>
+
+***
+
+--
+
+Si  avisa el tiempo más de 5 minutos después del tiempo objetivo, la regla 2 se considera incumplida.
+
+En la hoja de registro, se debe de indicar si el tiempo se olvidó por completo o se recordó demasiado tarde.
 
 ---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20APHS%202.png?raw=true)
+background-position: 95% 25%
+background-size: 60%
+# **Administración**
+>##** Ficha de registro de datos de la APHS** 
 
-# xaringan
+<br><br>
 
-Provides an R Markdown output format `xaringan::moon_reader` as a wrapper for remark.js, and you can use it in the YAML metadata, e.g.
 
-```yaml
----
-title: "A Cool Presentation"
-output:
-  xaringan::moon_reader:
-    yolo: true
-    nature:
-      autoplay: 30000
----
-```
+##_Reglas:_  
+_3. Avisa cuando termina_  
+<br>
 
-See the help page `?xaringan::moon_reader` for all possible options that you can use.
+***
 
----
+--
 
-# remark.js vs xaringan
-
-Some differences between using remark.js (left) and using **xaringan** (right):
-
-.pull-left[
-1. Start with a boilerplate HTML file;
-
-1. Plain Markdown;
-
-1. Write JavaScript to autoplay slides;
-
-1. Manually configure MathJax;
-
-1. Highlight code with `*`;
-
-1. Edit Markdown source and refresh browser to see updated slides;
-]
-
-.pull-right[
-1. Start with an R Markdown document;
-
-1. R Markdown (can embed R/other code chunks);
-
-1. Provide an option `autoplay`;
-
-1. MathJax just works;<sup>*</sup>
-
-1. Highlight code with `{{}}`;
-
-1. The RStudio addin "Infinite Moon Reader" automatically refreshes slides on changes;
-]
-
-.footnote[[*] Not really. See next page.]
+Indica si la persona recuerda avisar que ha finalizado la tarea colocando una marca de verificación en sí o no
 
 ---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20APHS%202.png?raw=true)
+background-position: 95% 25%
+background-size: 60%
+# **Administración**
+>##** Ficha de registro de datos de la APHS** 
 
-# Math Expressions
+<br><br>
 
-You can write LaTeX math expressions inside a pair of dollar signs, e.g. &#36;\alpha+\beta$ renders $\alpha+\beta$. You can use the display style with double dollar signs:
 
-```
-$$\bar{X}=\frac{1}{n}\sum_{i=1}^nX_i$$
-```
+##_Reglas:_  
+_4. Programa citas en día libre_  
+<br>
 
-$$\bar{X}=\frac{1}{n}\sum_{i=1}^nX_i$$
+***
 
-Limitations:
+--
 
-1. The source code of a LaTeX math expression must be in one line, unless it is inside a pair of double dollar signs, in which case the starting `$$` must appear in the very beginning of a line, followed immediately by a non-space character, and the ending `$$` must be at the end of a line, led by a non-space character;
+Indicar al participante que no programe ninguna cita el **miércoles**.
 
-1. There should not be spaces after the opening `$` or before the closing `$`.
+Si se ingresa una cita en este día, la regla se considera incumplida.
 
-1. Math does not work on the title slide (see [#61](https://github.com/yihui/xaringan/issues/61) for a workaround).
-
+La cita también se registra como un **error de ubicación** en la hoja de trabajo de calificación del calendario.
 ---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20APHS%202.png?raw=true)
+background-position: 95% 25%
+background-size: 60%
+# **Administración**
+>##** Ficha de registro de datos de la APHS** 
 
-# R Code
+<br><br>
 
-```{r comment='#'}
-# a boring regression
-fit = lm(dist ~ 1 + speed, data = cars)
-coef(summary(fit))
-dojutsu = c('地爆天星', '天照', '加具土命', '神威', '須佐能乎', '無限月読')
-grep('天', dojutsu, value = TRUE)
-```
+
+##_Reglas:_  
+_5. Total de citas tachadas_  
+<br>
+
+***
+
+--
+
+El participante recibe la instruccione de no tachar ninguna citaa después de haberla puesto en el calendario. 
+
+Se registra el número de veces que el particpante tachó citas. Si tacha al menos una cita, la regla 5 se considera incumplida
 
 ---
 
