@@ -572,14 +572,13 @@ El participante recibe la instruccione de no tachar ninguna citaa después de ha
 Se registra el número de veces que el particpante tachó citas. Si tacha al menos una cita, la regla 5 se considera incumplida
 
 ---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Reglas%20ejemplos.png?raw=true)
+background-position: 58% 45%
+background-size: 70%
+# **Administración**
+>##** Ficha de registro de datos de la APHS** 
 
-# R Plots
-
-```{r cars, fig.height=4, dev='svg'}
-par(mar = c(4, 4, 1, .1))
-plot(cars, pch = 19, col = 'darkgray', las = 1)
-abline(fit, lwd = 2)
-```
+##Ejemplos:
 
 ---
 
