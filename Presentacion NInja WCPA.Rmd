@@ -608,21 +608,48 @@ la gestión de errores de calendario se refiere a cómo el cliente maneja los er
 
 ---
 
-#Administración
->##Pautas adicionales  
+#**Administración**
+>## **Pautas adicionales**  
 
 <br>
 
-- **Respuesta a las preguntas del paciente…** repetir las instrucciones o señalar la hoja de instrucciones en cualquier momento, pero no responder las preguntas. “no puedo responder a esta pregunta, solo puedo repetir las instrucciones", “trate de hacerlo lo mejor que pueda", “usted decide qué hacer”
+- **Respuesta a las preguntas del paciente…** repetir las instrucciones o señalar la hoja de instrucciones en cualquier momento. No responder las preguntas (_“no puedo responder esa pregunta, solo puedo repetir las instrucciones", “trate de hacerlo lo mejor que pueda", “usted decide qué hacer”_)
 
-- **Si el paciente parece haber terminado pero no dice nada…** puede preguntar "¿ha terminado?" 
+- **Si el paciente parece haber terminado pero no dice nada…** puede preguntar _"¿ha terminado?"_. 
 
-- **El tiempo promedio para completar el nivel II es entre 14 y 17 minutos…** puede detener la tarea después de 30 minutos, pero el puntaje de eficiencia no se podrá calcular. 
+- **El tiempo promedio para completar el nivel II es entre 14 y 17 minutos…** puede detener la tarea después de 30 minutos. El puntaje de eficiencia no se podrá calcular. 
 
 - **El examinador debe hacer preguntas al paciente si es necesario y escribir notas...**  si el examinador no entiende la escritura del paciente, las abreviaturas que usó, etc.
 
 
 ---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Estrategias%20utilizadas.png?raw=true)
+background-position: 90% 40%
+background-size: 45%
+#**Administración**
+>## **Estrategias observadas**  
+
+.pull-left[
+- **Ocacionalmente:** uso infrecuente de una estrategia  (1-2 veces), en una parte especifica de la tarea, para despues dejar de usarla.
+
+- **Frecuentemente:** uso constante y adecuado a lo largo de la tarea.
+
+- **Ineficaz:** pasos inecesarios, mayor tiempo o esfuerzo. Copiar la lista de citas en el mismo orden en otra hoja de papel antes de ingresarlas en el calendario.
+ ]
+
+???
+el examinador debe observar cuidadosamente cómo el cliente realiza la tarea.
+
+como comienza el cliente
+cómo avanza a través de la actividad
+cómo hace frente a los conflictos o problemas que surgen
+
+el examinador debe notar el uso de la estrategia y su eficiencia
+
+atiende las características clave (1-2)
+realiza un seguimiento (3-4)
+organiza (5-10)
+supervisa el rendimiento (11-12)
 
 ---
 
