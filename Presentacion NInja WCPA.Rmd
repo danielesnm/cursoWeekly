@@ -581,43 +581,51 @@ background-size: 70%
 ##Ejemplos:
 
 ---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/observaciones.png?raw=true)
+background-position: 50% 20%
+background-size: 80%
+#**Administración**
+>## **Observaciones**  
 
-# Tables
+<br><br><br><br><br>
 
-If you want to generate a table, make sure it is in the HTML format (instead of Markdown or other formats), e.g.,
+***  
 
-```{r}
-knitr::kable(head(iris), format = 'html')
-```
+- Si reconoce los errores y pregunta qué debe hacer, se debe alentar a la persona a que decida, no le brinde orientación.  
 
----
-layout: false 
-background-image: url(https://images.squarespace-cdn.com/content/v1/596d1d73e58c62ed965e22d5/1507131572723-2R16LZ53X0YNPIDZ649O/ke17ZwdGBToddI8pDm48kLUtlpycEpcJji-VCkTnEB1Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SolCep30WpQRIjoQKeSzBBWdBIuIPdH7YGk2LBjXbaU0nN6hSdZxWoZv2kAsZsz8w/WCPA+Image.png?format=500w), url(https://i.pinimg.com/originals/15/77/43/1577435154bd64302576ab10f054f197.jpg)
-background-position: 95% 80%, 60% 85%
-background-size: 15%, 25%
-# HTML Widgets
+- Algunas personas no notan los errores o los ignoran. Otras se adaptan fácilmente.  
 
-I have not thoroughly tested HTML widgets against **xaringan**. Some may work well, and some may not. It is a little tricky.
+- Algunas personas en poblaciones clínicas pueden obsesionarse con los errores, lo que puede interferir con la finalización de la tarea.  
 
-Similarly, the Shiny mode (`runtime: shiny`) does not work. I might get these issues fixed in the future, but these are not of high priority to me. I never turn my presentation into a Shiny app. When I need to demonstrate more complicated examples, I just launch them separately. It is convenient to share slides with other people when they are plain HTML/JS applications.
+- El examinador debe indicar si alguno de los errores afectó el rendimiento indicandolo en el formulario de registro
 
-See the next page for two HTML widgets.
 
----
+???
+la gestión de errores de calendario se refiere a cómo el cliente maneja los errores de calendario (sábado / domingo. reversión), error de horario vespertino (citas que se extienden más allá del horario calendario) o el cambio en el formato de horario vespertino a partir de las 18:00 (de 15 a la mitad -horas de tiempo)
 
-```{r out.width='100%', fig.height=6, eval=require('leaflet')}
-library(leaflet)
-leaflet() %>% addTiles() %>% setView(-93.65, 42.0285, zoom = 17)
-```
+
+
 
 ---
 
-```{r eval=require('DT'), tidy=FALSE}
-DT::datatable(
-  head(iris, 10),
-  fillContainer = FALSE, options = list(pageLength = 8)
-)
-```
+#Administración
+>##Pautas adicionales  
+
+<br>
+
+- **Respuesta a las preguntas del paciente…** repetir las instrucciones o señalar la hoja de instrucciones en cualquier momento, pero no responder las preguntas. “no puedo responder a esta pregunta, solo puedo repetir las instrucciones", “trate de hacerlo lo mejor que pueda", “usted decide qué hacer”
+
+- **Si el paciente parece haber terminado pero no dice nada…** puede preguntar "¿ha terminado?" 
+
+- **El tiempo promedio para completar el nivel II es entre 14 y 17 minutos…** puede detener la tarea después de 30 minutos, pero el puntaje de eficiencia no se podrá calcular. 
+
+- **El examinador debe hacer preguntas al paciente si es necesario y escribir notas...**  si el examinador no entiende la escritura del paciente, las abreviaturas que usó, etc.
+
+
+---
+
+---
+
 
 ---
 
