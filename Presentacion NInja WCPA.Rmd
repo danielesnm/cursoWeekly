@@ -651,84 +651,61 @@ realiza un seguimiento (3-4)
 organiza (5-10)
 supervisa el rendimiento (11-12)
 
----
+el resaltado se puede utilizar para identificar o resaltar las palabras clave, así como para crear un código de color o un esquema organizacional, por lo tanto, el resaltado se subdividió de acuerdo con la razón por la cual o cómo se utilizó
 
-
----
-
-# Some Tips
-
-- When you use the "Infinite Moon Reader" addin in RStudio, your R session will be blocked by default. You can click the red button on the right of the console to stop serving the slides, or use the _daemonized_ mode so that it does not block your R session. To do the latter, you can set the option
-
-    ```r
-    options(servr.daemon = TRUE)
-    ```
-    
-    in your current R session, or in `~/.Rprofile` so that it is applied to all future R sessions. I do the latter by myself.
-    
-    To know more about the web server, see the [**servr**](https://github.com/yihui/servr) package.
-
---
-
-- Do not forget to try the `yolo` option of `xaringan::moon_reader`.
-
-    ```yaml
-    output:
-      xaringan::moon_reader:
-        yolo: true
-    ```
+estrategia de hablar en voz alta, algunas personas simplemente repitieron o compartieron palabras o instrucciones clave, y otras verbalizaron su plan y estrategia (ensayo verbal, verbalizaciones relacionadas con la planificación)
 
 ---
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/2.%20estrategias.png?raw=true)
+background-position: 50% 90%
+background-size: 85%
 
-# Some Tips
+#**Administración**
+>## **Otras estrategias menos comunes**  
 
-- Slides can be automatically played if you set the `autoplay` option under `nature`, e.g. go to the next slide every 30 seconds in a lightning talk:
+<br>
+1. Cubrir parte de la lista con papel de desecho.
 
-    ```yaml
-    output:
-      xaringan::moon_reader:
-        nature:
-          autoplay: 30000
-    ```
+2. Hacer comentarios alentadores para sí misma.
 
---
+3. Tararear en voz alta para mantener la concentración o evitar distracciones.
 
-- A countdown timer can be added to every page of the slides using the `countdown` option under `nature`, e.g. if you want to spend one minute on every page when you give the talk, you can set:
+4. Reevaluar el enfoque y modificar estrategias.
 
-    ```yaml
-    output:
-      xaringan::moon_reader:
-        nature:
-          countdown: 60000
-    ```
-
-    Then you will see a timer counting down from `01:00`, to `00:59`, `00:58`, ... When the time is out, the timer will continue but the time turns red.
-    
+5. Poner citas flexibles en los segmentos de tiempo menos ocupados, ej. en la mañana para evitar conflictos
 ---
+#**Administración**
+>## **Estrategias reportadas (no observadas)**
 
-# Some Tips
+<br>
 
-- The title slide is created automatically by **xaringan**, but it is just another remark.js slide added before your other slides.
+1. Observé todas las citas y las separé y categoricé en mi mente.
 
-    The title slide is set to `class: center, middle, inverse, title-slide` by default. You can change the classes applied to the title slide with the `titleSlideClass` option of `nature` (`title-slide` is always applied).
+2. Leí la lista varias veces antes de empezar.
 
-    ```yaml
-    output:
-      xaringan::moon_reader:
-        nature:
-          titleSlideClass: [top, left, inverse]
-    ```
-    
---
+3. Revisé todo primero para tener una idea de la tarea, antes de comenzar.
 
-- If you'd like to create your own title slide, disable **xaringan**'s title slide with the `seal = FALSE` option of `moon_reader`.
+4. Pensé en mi mismo haciendo los recados.
 
-    ```yaml
-    output:
-      xaringan::moon_reader:
-        seal: false
-    ```
+5. Repetí las citas y el tiempo para mí varias veces. 
 
+6. Prioricé las citas por importancia, por ejemplo, programar citas con el médico primero.
+
+???
+Estrategias reportadas (no observadas)
+Debido a que no se pueden observar todas las estrategias, la Escala de Entrevista y Calificación después de la tarea se usa para probar el uso de la estrategia e identificar estrategias internas autoinformadas como:
+
+
+Sección de comentarios:
+Anote cualquier comentario positivo o negativo que la persona haga sobre su desempeño o la tarea y regístrelos. El examinador también debe observar la eficiencia del uso de la estrategia o cualquier observación adicional.
+
+---
+#**Administración**
+>##** Entrevista posterior**
+---
+#**Administración**
+---
+#**Administración**
 ---
 
 # Some Tips
