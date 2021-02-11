@@ -1,8 +1,8 @@
 ---
-title: "Weekly Calendar Planning Activity <br> (Actividad de Planificacion del Horario Semanal)"
+title: "Weekly Calendar Planning Activity <br> (Actividad de Planificación del Horario Semanal, APHS)"
 subtitle: "Joan Toglia"
-author: "Daniel Salazar Frías"
-institute: "Universidad de Granada"
+author: "Laboratorio de Neuropsicología y Actividades de la Vida Diaria"
+institute: "Centro de Investigación Mente Cerebro y Comportamiento (CIMCYC), Universidad de Granada"
 date: "2020/06/26 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
@@ -151,7 +151,7 @@ Para que las habilidades necesarias para el funcionamiento diario se capturen co
 Pero..¿Cuál es el problema?
 La mayoría de las evaluaciones funcionales estandarizadas utilizadas están diseñadas para examinar actividades cotidianas o las actividades básicas de la vida diaria.
 
-La mayoria de las veces, este tipo de problemas en la clinica, se miden con auto reportes, o reportes de personas cercanas al paciente, en vez de evaluarse por medio de la observacion directa del desempeño en tareas especificas
+La mayoria de las veces, este tipo de problemas en la clinica, se miden con auto reportes, o reportes de personas cercanas al participante, en vez de evaluarse por medio de la observacion directa del desempeño en tareas especificas
 
 ---
 layout: false 
@@ -215,9 +215,9 @@ class: inverse, center, middle
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/citas1.png?raw=true)
 background-position: 50% 80%
 background-size: 70%
-#**Descripcion de la prueba**
+#**Descripción de la prueba**
 
-##**Weekly Calendar Planning Activity** 
+##**Actividad de Planificación del Horario Semanal, APHS** 
 
 >- Ingresar de 10 citas en un calendario semanal.
 - Algunas de las citas son fijas y otras tienen varias opciones de día y hora.
@@ -232,13 +232,13 @@ background-size: 70%
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Horario%20semanal.jpg?raw=true)
 background-position: 95% 85%
 background-size: 45%
-#**Descripcion de la prueba**
->##** Caracteristicas de la tarea**  
+#**Descripción de la prueba**
+>##** Características de la tarea**  
 
 
 --
 
-###_Lidiar con problemas_  
+###_Solucionar situaciónes conflictivas_  
 .pull-left[1. Espacios para citas de **15 min.** de 7:00-17:00 y **30 min.** de 18:00-20:00. 
 2. Sábado y domingo estan **invertidos.**  
 3. **Termina a las 20:00** a pesar de que una cita puede extenderse después de las 20:00. 
@@ -249,8 +249,8 @@ _Brindan la oportunidad de observar cómo las personas afrontan y se adaptan a p
 
   
 ---
-#**Descripcion de la prueba**
->##** Caracteristicas de la tarea**  
+#**Descripción de la prueba**
+>##** Características de la tarea**  
 
 ###_Reglas_  
 
@@ -264,7 +264,7 @@ _Brindan la oportunidad de observar cómo las personas afrontan y se adaptan a p
 
 --
 
-.left-column[###**Inhibicion**
+.left-column[###**Inhibición**
 
 ###**[Memoria Prospectiva](www.google.com)**
 
@@ -281,7 +281,7 @@ _Brindan la oportunidad de observar cómo las personas afrontan y se adaptan a p
 
 1. El cumplimiento de las reglas requiere una cuidadosa planificación y revisión de la lista antes de ingresar a las citas
 
-2. en general, las reglas imponen mayores exigencias a la memoria de trabajo porque aumentan la cantidad de información que el paciente necesita para realizar un seguimiento al tiempo que participa en la actividad
+2. en general, las reglas imponen mayores exigencias a la memoria de trabajo porque aumentan la cantidad de información que el participante necesita para realizar un seguimiento al tiempo que participa en la actividad
 
 
 ---
@@ -315,7 +315,7 @@ class: inverse, center, middle
 
 ***
 
-**Formularios Para calificacion(despues de la administracion)**
+**Formularios para calificación (después de la administración)**
 - Formulario de calificación [(A.9)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/formularios%20para%20calificacion/Apendice%209.%20Formulario%20de%20calificacion.pdf)
 
 ---
@@ -330,7 +330,7 @@ background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/image
 background-position: 50% 60%
 background-size: 50%
 # **Administración**
->##** Datos sobre el paciente**  
+>##** Datos sobre el participante**  
 
 
 ---
@@ -526,7 +526,7 @@ _5. Total de citas tachadas_
 
 --
 
-El participante recibe la instruccion de no tachar ninguna cita después de haberla registrado en el calendario. 
+El participante recibe la instrucción de no tachar ninguna cita después de haberla registrado en el calendario. 
 
 Se registra el número de veces que el particpante tachó citas. Si tacha al menos una cita, la regla 5 se considera incumplida
 
@@ -556,7 +556,7 @@ background-size: 80%
 
 - Algunas personas en poblaciones clínicas pueden obsesionarse con los errores, lo que puede interferir con la finalización de la tarea.  
 
-- El examinador debe indicar si alguno de los errores afectó el rendimiento indicandolo en el formulario de registro
+- El examinador debe indicar en el formulario de registro si alguno de los errores afectó el rendimiento del participante. 
 
 
 ???
@@ -572,13 +572,13 @@ la gestión de errores de calendario se refiere a cómo el cliente maneja los er
 
 <br>
 
-- **Respuesta a las preguntas del paciente…** repetir las instrucciones o señalar la hoja de instrucciones en cualquier momento. No responder las preguntas (_“no puedo responder esa pregunta, solo puedo repetir las instrucciones", “trate de hacerlo lo mejor que pueda", “usted decide qué hacer”_)
+- **Respuesta a las preguntas del participante…** repetir las instrucciones o señalar la hoja de instrucciones en cualquier momento. No responder las preguntas (_“no puedo responder esa pregunta, solo puedo repetir las instrucciones", “trate de hacerlo lo mejor que pueda", “usted decide qué hacer”_)
 
-- **Si el paciente parece haber terminado pero no dice nada…** puede preguntar _"¿ha terminado?"_. 
+- **Si el participante parece haber terminado pero no dice nada…** puede preguntar _"¿ha terminado?"_. 
 
 - **El tiempo promedio para completar el nivel II es entre 14 y 17 minutos…** puede detener la tarea después de 30 minutos. El puntaje de eficiencia no se podrá calcular. 
 
-- **El examinador debe hacer preguntas al paciente si es necesario y escribir notas...**  si el examinador no entiende la escritura del paciente, las abreviaturas que usó, etc.
+- **El examinador debe hacer preguntas al participante si es necesario y escribir notas...**  si el examinador no entiende la escritura del participante, las abreviaturas que usó, etc.
 
 
 ---
@@ -589,7 +589,7 @@ background-size: 45%
 >## **Estrategias observadas**  
 
 .pull-left[
-- **Ocacionalmente:** uso infrecuente de una estrategia  (1-2 veces), en una parte especifica de la tarea, para despues dejar de usarla.
+- **Ocasionalmente:** uso infrecuente de una estrategia  (1-2 veces), en una parte específica de la tarea, para después dejar de usarla.
 
 - **Frecuentemente:** uso constante y adecuado a lo largo de la tarea.
 
@@ -620,7 +620,7 @@ background-position: 50% 90%
 background-size: 85%
 
 #**Administración**
->## **Otras estrategias menos comunes**  
+>## **Ejemplos de otras estrategias menos comunes**  
 
 <br>
 1. Cubrir parte de la lista con papel de desecho.
@@ -634,7 +634,7 @@ background-size: 85%
 5. Poner citas flexibles en los segmentos de tiempo menos ocupados, ej. en la mañana para evitar conflictos
 ---
 #**Administración**
->## **Estrategias reportadas (no observadas)**
+>## **Ejemplos de estrategias reportadas (no observadas)**
 
 <br>
 
@@ -644,7 +644,7 @@ background-size: 85%
 
 3. Revisé todo primero para tener una idea de la tarea, antes de comenzar.
 
-4. Pensé en mi mismo haciendo los recados.
+4. Pensé en mí mismo haciendo los recados.
 
 5. Repetí las citas y el tiempo para mí varias veces. 
 
@@ -663,13 +663,13 @@ background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/image
 background-position: 90% 90%
 background-size: 45%
 #**Administración**
->##** Formulario de observaciónes**
+>##** Formulario de observaciones**
 
 .pull-left[- Se realiza durante la evaluación, para registrar el orden en el que el participante apunta las citas.
 
-- Observaciónes o comentarios especificos.
+- Observaciónes o comentarios específicos.
 
-- Errores especificos.
+- Errores específicos.
 
 - Señales de reconocimiento de errores (verbales o no verbales) o intentos de autocorrección.
 ]
@@ -698,8 +698,8 @@ background-size: 45%
 #**Administración**
 >##** Preguntas adicionales**
 
-- Si aplica: _¿Cómo le hiciste para recordar que tenias que decirme la hora?_
-- _Te diste cuenta que el calendario tenia un error?_
+- Si aplica: _¿Cómo lo hiciste para recordar que tenías que decirme la hora?_
+- _¿Te diste cuenta que el calendario tenía un error?_
 
 <br>
 
