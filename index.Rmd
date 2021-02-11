@@ -230,9 +230,16 @@ background-size: 40%, 40%, 40%
 
 ---
 layout: false 
-background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5msxn2mhrHJv2VXDFyku2SPezoZO5dNAFKg&usqp=CAU)
-background-position: 50% 50%
-background-size: 90%
+background-image:url(https://cdn.goconqr.com/uploads/node/image/64317908/97794663-96ea-452b-886d-a40babe6738e.jpg)
+background-position: 10% 50%
+background-size: 40%
+
+<br><br>
+
+.pull-right[##__Antes de iniciar la actividad__##  
+###1. Rellenar el formulario de datos del paciente.  
+###2. Leer las instrucciones y las reglas a la persona.]
+
 
 ---
 background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Datos%20del%20paciente.png?raw=true)
@@ -243,47 +250,39 @@ background-size: 80%
 
 
 ---
-background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Instrucciones%20examinador.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Instrucciones%20y%20reglas.png?raw=true)
-background-position: 5% 90%, 95% 80%
-background-size: 43%, 43%
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Instrucciones%20examinador.png?raw=true)
+background-position: 95% 5%
+background-size: 50%
 # **Administración**
 >##** Instrucciones**  
 
-???
+.pull-left[
 
-1. las instrucciones pueden ser parafraseadas
+- Hablar **despacio y claro.**
 
-2. Apuntar con el dedo a cada detalle de la hoja de la persona mientras se va explicando
+- Las instrucciones **pueden ser parafraseadas.**
+
+- **Apuntar** con el dedo a cada detalle de la hoja de la persona mientras se va explicando.
+
+- Preguntar si tiene alguna duda.
+
+- Pedirle que **repita las instrucciones y reglas**]
+
 
 ---
 background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Instrucciones%20y%20reglas.png?raw=true)
 background-position: 95% 35%
 background-size: 50%
 # **Administración**
->##** Instrucciones**  
+>##** Instrucciones y reglas**  
 
 .pull-left[
 
 - Disponible durante toda la actividad como referencia
 
-- Hablar despacio y claro
-
-- Preguntar si tiene alguna pregunta
-
-- Pedirle que repita las instrucciones y reglas]
-
----
-background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Instrucciones%20y%20reglas.png?raw=true)
-background-position: 95% 35%
-background-size: 50%
-# **Administración**
->##** Reglas para recordar**  
-
-.pull-left[
 - Indicar al participante que esté pendiente del tiempo. Debe avisar al examinador **7 minutos después** de que empiecen.
 
--  Ej. si comienza a las **10:20**, se le pedirá que informe cuando sean las **10:27**, y esto se escribiría en la hoja de instrucciones de la persona.
-]
+-  Ej. si comienza a las **10:20**, se le pedirá que informe cuando sean las **10:27**, y esto se escribiría en la hoja de instrucciones de la persona.]
 
 ---
 background-image: url(https://img.pngio.com/cosmetic-instructions-more-package-read-symbols-icon-instructions-png-512_512.png)
@@ -490,85 +489,13 @@ background-size: 45%
 ]
 
 ---
----
-background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Estrategias%20utilizadas.png?raw=true)
-background-position: 90% 40%
-background-size: 45%
-#**Administración**
->## **Estrategias observadas**  
 
-.pull-left[
-- **Ocasionalmente:** uso infrecuente de una estrategia  (1-2 veces), en una parte específica de la tarea, para después dejar de usarla.
-
-- **Frecuentemente:** uso constante y adecuado a lo largo de la tarea.
-
-- **Ineficaz:** pasos inecesarios, mayor tiempo o esfuerzo. Copiar la lista de citas en el mismo orden en otra hoja de papel antes de ingresarlas en el calendario.
- ]
-
-???
-el examinador debe observar cuidadosamente cómo la persona realiza la tarea.
-
-como comienza la persona
-cómo avanza a través de la actividad
-cómo hace frente a los conflictos o problemas que surgen
-
-el examinador debe notar el uso de la estrategia y su eficiencia
-
-atiende las características clave (1-2)
-realiza un seguimiento (3-4)
-organiza (5-10)
-supervisa el rendimiento (11-12)
-
-el resaltado se puede utilizar para identificar o resaltar las palabras clave, así como para crear un código de color o un esquema organizacional, por lo tanto, el resaltado se subdividió de acuerdo con la razón por la cual o cómo se utilizó
-
-estrategia de hablar en voz alta, algunas personas simplemente repitieron o compartieron palabras o instrucciones clave, y otras verbalizaron su plan y estrategia (ensayo verbal, verbalizaciones relacionadas con la planificación)
+#Despues de la tarea
 
 ---
-background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/2.%20estrategias.png?raw=true)
-background-position: 50% 90%
-background-size: 85%
-
-#**Administración**
->## **Ejemplos de otras estrategias menos comunes**  
-
-<br>
-1. Cubrir parte de la lista con otro papel.
-6. Hacer comentarios alentadores para sí misma.
-7. Tararear en voz alta para mantener la concentración o evitar distracciones.
-8. Reevaluar el enfoque y modificar estrategias.
-9. Poner citas flexibles en los segmentos de tiempo menos ocupados, ej. por la mañana para evitar conflictos
-
----
-#**Administración**
->## **Ejemplos de estrategias reportadas (no observadas)**
-
-<br>
-
-1. Observé todas las citas y las separé y categoricé en mi mente.
-
-2. Leí la lista varias veces antes de empezar.
-
-3. Revisé todo primero para tener una idea de la tarea, antes de comenzar.
-
-4. Pensé en mí mismo haciendo los recados.
-
-5. Repetí las citas y el tiempo para mí varias veces. 
-
-6. Prioricé las citas por importancia, por ejemplo, programar citas con el médico primero.
-
-???
-Estrategias reportadas (no observadas)
-Debido a que no se pueden observar todas las estrategias, la Escala de Entrevista y Calificación después de la tarea se usa para probar el uso de la estrategia e identificar estrategias internas autoinformadas como:
-
-
-Sección de comentarios:
-Anote cualquier comentario positivo o negativo que la persona haga sobre su desempeño o la tarea y regístrelos. El examinador también debe observar la eficiencia del uso de la estrategia o cualquier observación adicional.
-
----
-
 background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true)
-background-position: 90% 90%
-background-size: 45%
+background-position: 95% 75%
+background-size: 48%
 #**Administración**
 >##** Entrevista posterior**
 
@@ -679,6 +606,78 @@ El examinador debe alentar a la persona a identificar los métodos específicos 
 - _Tomar notas sobre las citas en conflicto y hacer mayor uso de los folios para planificar mejor_
 ]
 
+---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Estrategias%20utilizadas.png?raw=true)
+background-position: 90% 40%
+background-size: 45%
+#**Administración**
+>## **Estrategias observadas**  
+
+.pull-left[
+- **Ocasionalmente:** uso infrecuente de una estrategia  (1-2 veces), en una parte específica de la tarea, para después dejar de usarla.
+
+- **Frecuentemente:** uso constante y adecuado a lo largo de la tarea.
+
+- **Ineficaz:** pasos inecesarios, mayor tiempo o esfuerzo. Copiar la lista de citas en el mismo orden en otra hoja de papel antes de ingresarlas en el calendario.
+ ]
+
+???
+el examinador debe observar cuidadosamente cómo la persona realiza la tarea.
+
+como comienza la persona
+cómo avanza a través de la actividad
+cómo hace frente a los conflictos o problemas que surgen
+
+el examinador debe notar el uso de la estrategia y su eficiencia
+
+atiende las características clave (1-2)
+realiza un seguimiento (3-4)
+organiza (5-10)
+supervisa el rendimiento (11-12)
+
+el resaltado se puede utilizar para identificar o resaltar las palabras clave, así como para crear un código de color o un esquema organizacional, por lo tanto, el resaltado se subdividió de acuerdo con la razón por la cual o cómo se utilizó
+
+estrategia de hablar en voz alta, algunas personas simplemente repitieron o compartieron palabras o instrucciones clave, y otras verbalizaron su plan y estrategia (ensayo verbal, verbalizaciones relacionadas con la planificación)
+
+---
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/2.%20estrategias.png?raw=true)
+background-position: 50% 90%
+background-size: 85%
+
+#**Administración**
+>## **Ejemplos de otras estrategias menos comunes**  
+
+<br>
+1. Cubrir parte de la lista con otro papel.
+6. Hacer comentarios alentadores para sí misma.
+7. Tararear en voz alta para mantener la concentración o evitar distracciones.
+8. Reevaluar el enfoque y modificar estrategias.
+9. Poner citas flexibles en los segmentos de tiempo menos ocupados, ej. por la mañana para evitar conflictos
+
+---
+#**Administración**
+>## **Ejemplos de estrategias reportadas (no observadas)**
+
+<br>
+
+1. Observé todas las citas y las separé y categoricé en mi mente.
+
+2. Leí la lista varias veces antes de empezar.
+
+3. Revisé todo primero para tener una idea de la tarea, antes de comenzar.
+
+4. Pensé en mí mismo haciendo los recados.
+
+5. Repetí las citas y el tiempo para mí varias veces. 
+
+6. Prioricé las citas por importancia, por ejemplo, programar citas con el médico primero.
+
+???
+Estrategias reportadas (no observadas)
+Debido a que no se pueden observar todas las estrategias, la Escala de Entrevista y Calificación después de la tarea se usa para probar el uso de la estrategia e identificar estrategias internas autoinformadas como:
 
 
+Sección de comentarios:
+Anote cualquier comentario positivo o negativo que la persona haga sobre su desempeño o la tarea y regístrelos. El examinador también debe observar la eficiencia del uso de la estrategia o cualquier observación adicional.
 
+---
