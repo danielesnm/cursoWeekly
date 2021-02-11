@@ -142,8 +142,10 @@ background-size: 45%
 --
 
 ###_Solucionar situaciones conflictivas_  
-.pull-left[1. Espacios para citas de **15 min.** de 7:00-17:00 y **30 min.** de 18:00-20:00. 
+.pull-left[1. Espacios para citas de **15 min.** de 7:00-17:00 y **30 min.** de 18:00-20:00.  
+
 2. Sábado y domingo estan **invertidos.**  
+
 3. **Termina a las 20:00** a pesar de que una cita puede extenderse después de las 20:00. 
 
 <br>
@@ -159,7 +161,7 @@ _Brindan la oportunidad de observar cómo las personas afrontan y se adaptan a p
 
 1. Una vez que haya apuntado una cita en el horario, no podrá tacharla.
 2. Avíseme cuando sean las ________horas.
-3. Deje el __________libre. (No programe ninguna cita o tarea ese día.) 
+3. Deje el **miércoles**libre. (No programe ninguna cita o tarea ese día.) 
 4. No conteste a ninguna pregunta del examinador durante esta actividad.
 5. Avise al examinador cuando haya terminado.  
 
@@ -232,8 +234,8 @@ background-size: 95%
  
 ---
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/ants%20de%20la%20actividad.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/durante%20la%20actividad.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/despues%20de%20la%20actividad.png?raw=true)
-background-position: 10% 10%, 90% 10%, 50% 90%
-background-size: 60%, 60%, 60%
+background-position: 5% 5%, 95% 5%, 50% 95%
+background-size: 40%, 40%, 40%
 # **Material de la terapeuta**
 
 ---
