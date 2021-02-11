@@ -12,9 +12,6 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-      ratio: "16:9"
-    includes:
-      after_body: [css/insert-logo.html]
 ---
 
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/1.%20WCPA%20imagen.png?raw=true)
@@ -29,7 +26,7 @@ class: center, top
 ## 1. Información general 
 ## 2. Descripción del instrumento
 ## 3. Administración
-## 4. Calificación e interpretación
+## 4. Calificación
 ]
 
 
@@ -60,102 +57,6 @@ background-size: 80%
 + El __uso de la estrategias.__  
 
 ***
-
----
-background-image: url(https://i.etsystatic.com/10609453/r/il/28e694/826799468/il_794xN.826799468_hji2.jpg)
-background-position: 50% 65%
-background-size: 27%
-# **Información general**  
-
-.pull-left[## __¿Qué son las funciones executivas?__
-_Conjunto de habilidades cognitivas_ que son críticas para el _control, coordinación y regulación_ de pensamientos, emociones y acciones dirigidas a objetivos.  
-[(Zelazo & Carlson, 2012)](https://psycnet.apa.org/record/2012-31092-006) 
-<br><br><br>
-]
-
-.pull-right[
-##**Principales sub-componentes**
-3. Inhibición
-3. Memoria de trabajo
-4. Flexibilidad cognitiva
-5. Automonitoreo
-]
-
-<br><br><br>
-***
---
-
-Contribuyen al _control cognitivo y la autorregulación_ necesarios para la planificación, organización y resolución de problemas en _situaciones novedosas, complejas o desafiantes._ [(Prencipen et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21044790/) 
-
----
-background-image: url(https://cdn.mindful.org/MindfulMoment.jpg?q=80&fm=jpg&fit=crop&w=1920&h=1080)
-background-position: 5% 80%
-background-size: 55%
-
-#**Información general**
-##**Funciones Ejecutivas y su relación con Actividades de la Vida Diaria**
-- Se ha sugerido que las FE tiene un **efecto amplio sobre el desempeño ocupacional en múltiples poblaciones**, destacando la importancia de _evaluarlas dentro del contexto de actividades relevantes para la vida cotidiana_  [(Cicerone et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30926291/) 
-
-***
-
-.pull-right[
-<br>
->1. Productividad y empleo    
-2. Participacion en actividades sociales  
-3. Adherencia al tratamiento  
-3. Calidad de vida  
-4. Desempeño en actividades complejas
-5. Desempeño academico exitoso
-]
-
----
-background-image: url(https://www.fundacioncadah.org/j289eghfd7511986_uploads/web_1/post_images/image_item_final_329.jpg)
-background-position: 90% 50%
-background-size: 35%
-#**Información general**
-##**Evaluación de las FE y las Actividades Instrumentales de la Vida Diaria **
-
-Normalmente se utilizan test con tareas abstractas para identificar deficits en en los diferentes componentes de las FE [(Lezak et al., 2012)](https://psycnet.apa.org/record/2012-02043-000).
-
-.pull-left[
-##**Principales sub-componentes**
-3. Inhibición
-3. Memoria de trabajo
-4. Flexibilidad cognitiva
-5. Automonitoreo
-]
-
-<br><br><br><br><br><br><br><br><br><br>
---
-
->## **No predicen el rendimiento en tareas complejas en el mundo real!!**
-
----
-background-image: url(https://images.creativemarket.com/0.1.0/ps/6550506/600/400/m2/fpnw/wm0/creative-people-2-.jpg?1560760178&s=81fc4f6fa2334996556bc73e7f484c72)
-background-position: 0% 60%
-background-size: 55%
-
-#**Información general**
-##**Herramientas ecológicamente válidas para complementar las medidas estandarizadas de FE. ** 
-***
-
---
-
-.pull-right[>Personas con deficits en FE, pueden desempeñarse bien en el contexto de actividades rutinarias...  
-
->...y tener  dificultades  durante actividades novedosas, que requieren la capacidad de tener en cuenta diferentes variables simultáneamente mientras se planifica y organiza la información.
-]
-
-
-???
-
-Para que las habilidades necesarias para el funcionamiento diario se capturen completamente y se obtenga un perfil más completo de FE
-
-Pero..¿Cuál es el problema?
-La mayoría de las evaluaciones funcionales estandarizadas utilizadas están diseñadas para examinar actividades cotidianas o las actividades básicas de la vida diaria.
-
-La mayoria de las veces, este tipo de problemas en la clinica, se miden con auto reportes, o reportes de personas cercanas al participante, en vez de evaluarse por medio de la observacion directa del desempeño en tareas especificas
-
 ---
 layout: false 
 background-image: url(https://www.medbridgeeducation.com/blog/wp-content/uploads/2019/01/M290_Email-Hero-for-Susan-Stralka-PT-AT_Blog1.png)
