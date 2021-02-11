@@ -194,9 +194,6 @@ class: inverse, center, middle
 
 ---
 # **Vídeo de la admisitración de la APHS**
-<video width="320" height="240">
-<source src="/Users/daniel/Desktop/video WEEKLY.mp4" type="video/mp4">
-</video>
 
 ---
 # **Administración**
