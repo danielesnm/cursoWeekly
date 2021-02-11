@@ -12,6 +12,9 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      ratio: "16:9"
+    includes:
+      after_body: [css/insert-logo.html]
 ---
 
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/1.%20WCPA%20imagen.png?raw=true)
