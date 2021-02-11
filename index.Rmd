@@ -13,14 +13,17 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
-
+```{r xaringan-panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+xaringanExtra::use_tile_view()
+```
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/1.%20WCPA%20imagen.png?raw=true)
 background-position: 5% 50%
 background-size: 40%
 class: center, top
 
 # __Orden de la presentación__
---
+
 <br><br>
 .pull-right[
 ## 1. Información general 
@@ -128,18 +131,12 @@ background-size: 70%
 
 ***  
 
---
-
-
 ---
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Horario%20semanal.jpg?raw=true)
 background-position: 95% 85%
 background-size: 45%
 #**Descripción de la prueba**
 >##** Características de la tarea**  
-
-
---
 
 ###_Solucionar situaciones conflictivas_  
 .pull-left[1. Sábado y domingo estan **invertidos.**   
@@ -166,8 +163,6 @@ _Brindan la oportunidad de observar cómo las personas afrontan y se adaptan a p
 5. Avise al examinador cuando haya terminado.  
 
 ***
-
---
 
 .left-column[###**Inhibición**
 
@@ -202,7 +197,7 @@ class: inverse, center, middle
 >##** Materiales necesarios**  
 
 
-.pull-left[**Formularios para participantes**  
+.pull-left[**Para participantes**  
 - Hoja de instrucciones y reglas [(A.1)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20participante/Apendice%201.%20Hoja%20de%20instrucciones%20y%20reglas.pdf) 
 - Lista de citas y tareas a programar [(A.2)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20participante/Apendice%202.%20Lista%20de%20citas%20y%20tareas%20a%20programar.pdf)
 - Calendario semanal en blanco y ejemplos [(A.3)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20participante/Apendice%203.%20Calendario%20semanal%20en%20blanco%20y%20ejemplos.pdf)
@@ -212,19 +207,14 @@ class: inverse, center, middle
 - Un reloj (a la vista)
 ]
 
-.pull-right[**Formularios para terapeutas**  
+.pull-right[**Para terapeutas**  
 - Cronómetro
 - Instrucciones [(A.4)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20terapeuta/Apendice%204.%20Instrucciones.pdf) 
 - Formulario de datos [(A.5)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20terapeuta/Apendice%205.%20Formulario%20de%20datos%20del%20paciente.pdf)
 - Ficha de registro [(A.6)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20terapeuta/Apendice%206.%20Ficha%20de%20registro.pdf)
 - Entrevista posterior [(A.7)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20terapeuta/Apendice%207.%20Entrevista%20posterior.pdf)
 - Formulario de observaciones [(A.8)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/materiales%20para%20el%20terapeuta/Apendice%208.%20Formulario%20de%20observaciones.pdf)
-]
-
-***
-
-**Formularios para calificación (después de la administración)**
-- Formulario de calificación [(A.9)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/formularios%20para%20calificacion/Apendice%209.%20Formulario%20de%20calificacion.pdf)
+- Formulario de calificación [(A.9)](https://github.com/danielesnm/cursoWeekly/blob/master/Ap%C3%A9ndices/formularios%20para%20calificacion/Apendice%209.%20Formulario%20de%20calificacion.pdf)]
 
 ---
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Acomodo.png?raw=true)
@@ -239,7 +229,11 @@ background-size: 40%, 40%, 40%
 # **Material de la terapeuta**
 
 ---
-#Antes de inciar la actividad
+layout: false 
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5msxn2mhrHJv2VXDFyku2SPezoZO5dNAFKg&usqp=CAU)
+background-position: 50% 50%
+background-size: 90%
+
 ---
 background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Datos%20del%20paciente.png?raw=true)
 background-position: 50% 50%
@@ -250,8 +244,8 @@ background-size: 80%
 
 ---
 background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Instrucciones%20examinador.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Instrucciones%20y%20reglas.png?raw=true)
-background-position: 5% 60%, 95% 35%
-background-size: 40%, 40%
+background-position: 5% 90%, 95% 80%
+background-size: 43%, 43%
 # **Administración**
 >##** Instrucciones**  
 
@@ -319,8 +313,6 @@ background-size: 60%
 
 ***  
 
---
-
 1. Registrar la hora en que escribe la primera cita en el calendario semanal. El tiempo de planificación se debe indicar en minutos y segundos.
 
 2. Tiempo total: registre el tiempo cuando la persona declara que él o ella ha terminado o deja el bolígrafo. esto incluye tanto el tiempo de planificación como el tiempo para completar toda la tarea
@@ -338,13 +330,11 @@ background-size: 60%
 <br><br>
 
 
-##_Reglas:_  
+##_Reglas_  
 _1. Preguntas respondidas_  
 <br>
 
 ***
-
---
 
 Las preguntas deben hacerse **después de 2, 5 y 7 minutos**, de haber empezado la actividad.
 
@@ -367,13 +357,11 @@ background-size: 60%
 <br><br>
 
 
-##_Reglas:_  
+##_Reglas_  
 _2. Avisar la hora _  
 <br>
 
 ***
-
---
 
 Si avisa con un retraso mayor de 5 minutos,  la regla 2 se considera incumplida.
 
@@ -389,13 +377,11 @@ background-size: 60%
 <br><br>
 
 
-##_Reglas:_  
+##_Reglas_  
 _3. Avisa cuando termina_  
 <br>
 
 ***
-
---
 
 Indicar si la persona recuerda avisar que ha finalizado la tarea colocando una marca de verificación en sí o no
 
@@ -409,13 +395,11 @@ background-size: 60%
 <br><br>
 
 
-##_Reglas:_  
+##_Reglas_  
 _4. Programa citas en día libre_  
 <br>
 
 ***
-
---
 
 Indicar al participante que no programe ninguna cita el **miércoles**.
 
@@ -432,13 +416,12 @@ background-size: 60%
 <br><br>
 
 
-##_Reglas:_  
+##_Reglas_  
 _5. Total de citas tachadas_  
 <br>
 
 ***
 
---
 La persona recibe la instrucción de no tachar ninguna cita después de haberla escrito en el horario. 
 
 Se registra el número de veces que el particpante tachó citas. Si tacha al menos una cita, la regla 5 se considera incumplida
@@ -475,9 +458,6 @@ background-size: 80%
 ???
 la gestión de errores de calendario se refiere a cómo la persona maneja los errores de calendario (sábado / domingo. reversión), error de horario vespertino (citas que se extienden más allá del horario calendario) o el cambio en el formato de horario vespertino a partir de las 18:00 (de 15 a la mitad -horas de tiempo)
 
-
-
-
 ---
 
 #**Administración**
@@ -493,6 +473,23 @@ la gestión de errores de calendario se refiere a cómo la persona maneja los er
 
 - **Si el examinador no entiende la escritura de la persona, las abreviaturas que usó, etc.** Hacer preguntas al participante y escribir notas.
 
+---
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/formulario%20de%20observaciones.png?raw=true)
+background-position: 90% 90%
+background-size: 45%
+#**Administración**
+>##** Formulario de observaciones**
+
+.pull-left[- Se realiza durante el desempeño de la tarea.
+
+- Observaciónes o comentarios específicos.
+
+- Errores específicos.
+
+- Señales de reconocimiento de errores (verbales o no verbales) o intentos de autocorrección.
+]
+
+---
 ---
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Estrategias%20utilizadas.png?raw=true)
 background-position: 90% 40%
@@ -568,22 +565,7 @@ Sección de comentarios:
 Anote cualquier comentario positivo o negativo que la persona haga sobre su desempeño o la tarea y regístrelos. El examinador también debe observar la eficiencia del uso de la estrategia o cualquier observación adicional.
 
 ---
-background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/formulario%20de%20observaciones.png?raw=true)
-background-position: 90% 90%
-background-size: 45%
-#**Administración**
->##** Formulario de observaciones**
 
-.pull-left[- Se realiza durante el desempeño de la tarea.
-
-- Observaciónes o comentarios específicos.
-
-- Errores específicos.
-
-- Señales de reconocimiento de errores (verbales o no verbales) o intentos de autocorrección.
-]
-
----
 background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true)
 background-position: 90% 90%
 background-size: 45%
