@@ -25,8 +25,7 @@ class: center, top
 .pull-right[
 ## 1. Información general 
 ## 2. Descripción del instrumento
-## 3. Administración
-## 4. Calificación
+## 3. Administración y calificación del instrumento
 ]
 
 
