@@ -226,10 +226,10 @@ class: inverse, center, middle
 
 ---
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Acomodo.png?raw=true)
-background-position: 50% 65%
-background-size: 80%
-# **Administración**
->##** Acomodo de los materiales**  
+background-position: 50% 90%
+background-size: 95%
+# **Material del participante**
+  
 
 ---
 background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Formulario%20de%20datos%20del%20paciente.png?raw=true)
