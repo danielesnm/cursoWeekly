@@ -232,16 +232,9 @@ background-size: 40%, 40%, 40%
 # **Material de la terapeuta**
 
 ---
-layout: false 
-background-image:url(https://cdn.goconqr.com/uploads/node/image/64317908/97794663-96ea-452b-886d-a40babe6738e.jpg)
-background-position: 10% 50%
-background-size: 40%
-
-<br><br>
-
-.pull-right[##__Antes de iniciar la actividad__##  
-###1. Rellenar el formulario de datos del paciente.  
-###2. Leer las instrucciones y las reglas a la persona.]
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/ants%20de%20la%20actividad.png?raw=true)
+background-position: 50% 50%, 
+background-size: 80%
 
 
 ---
@@ -492,15 +485,15 @@ background-size: 45%
 ]
 
 ---
-background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20puntuacion.png?raw=true)
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/estrategias%20observadas.png?raw=true)
 background-position: 5% 5%, 95% 5%
-background-size: 30%
-#Despues de la actividad
+background-size: 45%
+#**Despues de la actividad**
 ---
-background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20puntuacion.png?raw=true)
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20puntuacion.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Hojaresumen.png?raw=true)
 background-position: 5% 5%, 95% 5%
-background-size: 30%
-#Despues de la actividad
+background-size: 45%
+#**Despues de la actividad**
 ---
 background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true)
 background-position: 95% 75%
