@@ -708,3 +708,7 @@ background-position: 90% 95%, 10% 100%
 background-size: 46%, 40%
 #**Paso 3: Id. tipo de error**
 ---
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ejemplotipoerrores.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ejemplocalendario.png?raw=true)  
+background-position: 90% 95%, 10% 100%
+background-size: 46%, 40%
+#**Paso 3: Id. detección de errores**
