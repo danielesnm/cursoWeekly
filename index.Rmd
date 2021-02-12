@@ -17,6 +17,10 @@ output:
 xaringanExtra::use_panelset()
 xaringanExtra::use_tile_view()
 ```
+```{r xaringan-fit-screen, echo=FALSE}
+xaringanExtra::use_fit_screen()
+```
+
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/1.%20WCPA%20imagen.png?raw=true)
 background-position: 5% 50%
 background-size: 40%
