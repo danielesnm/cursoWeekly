@@ -242,7 +242,7 @@ background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/image
 background-position: 50% 50%
 background-size: 80%
 # **Administración**
->##** Datos sobre la persona**  
+>##** 1. Formulario de datos de la persona**  
 
 
 ---
@@ -250,7 +250,7 @@ background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/image
 background-position: 95% 5%
 background-size: 50%
 # **Administración**
->##** Instrucciones**  
+>##** 2. Instrucciones y reglas**  
 
 .pull-left[
 
@@ -270,7 +270,7 @@ background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/image
 background-position: 95% 35%
 background-size: 50%
 # **Administración**
->##** Instrucciones y reglas**  
+>##** 2. Instrucciones y reglas**  
 
 .pull-left[
 
@@ -706,7 +706,20 @@ background-position: 90% 95%, 10% 100%
 background-size: 46%, 40%
 #**Paso 3: Id. tipo de error**
 ---
-background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/autocorreccion.png?raw=true), 
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/autocorreccion.png?raw=true)
 background-position: 90% 95%
 background-size: 46%
 #**Paso 4: Id. detección de errores**
+---
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/ejemplototales.png?raw=true)
+background-position: 90% 95%
+background-size: 46%
+#**Paso 5: Total de todas las columnas**
+---
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Hojaresumen.png?raw=true)  
+background-position: 95% 80%
+background-size: 55%
+#**Administración**
+
+.pull-left[>##** 8. Resumen**
+]
