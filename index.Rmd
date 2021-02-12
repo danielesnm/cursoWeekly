@@ -227,8 +227,8 @@ background-size: 95%
  
 ---
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/ants%20de%20la%20actividad.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/durante%20la%20actividad.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/despues%20de%20la%20actividad.png?raw=true)
-background-position: 5% 5%, 95% 5%, 50% 95%
-background-size: 40%, 40%, 40%
+background-position: 0% 5%, 100% 5%, 50% 100%
+background-size: 50%, 50%, 65%
 # **Material de la terapeuta**
 
 ---
@@ -489,15 +489,10 @@ background-size: 45%
 ]
 
 ---
-background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/estrategias%20observadas.png?raw=true)
-background-position: 5% 5%, 95% 5%
-background-size: 45%
-#**Despues de la actividad**
----
-background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20puntuacion.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Hojaresumen.png?raw=true)
-background-position: 5% 5%, 95% 5%
-background-size: 45%
-#**Despues de la actividad**
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/despues%20de%20la%20actividad.png?raw=true)
+background-position: 50% 50%
+background-size: 100%
+
 ---
 background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true)
 background-position: 95% 75%
