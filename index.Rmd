@@ -192,6 +192,8 @@ class: inverse, center, middle
 ---
 # **Vídeo de la admisitración de la APHS**
 
+<iframe width="810" height="565" src="https://www.youtube.com/watch?v=sbS5g2dHJiI&feature=youtu.be&ab_channel=DanielSalazar" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 # **Administración**
 >##** Materiales necesarios**  
@@ -489,11 +491,15 @@ background-size: 45%
 ]
 
 ---
-background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true)
-background-position: 5% 5%, 95% 5%, 5% 95%, 95% 95% 
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20puntuacion.png?raw=true)
+background-position: 5% 5%, 95% 5%
 background-size: 30%
 #Despues de la actividad
-
+---
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20puntuacion.png?raw=true)
+background-position: 5% 5%, 95% 5%
+background-size: 30%
+#Despues de la actividad
 ---
 background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true)
 background-position: 95% 75%
