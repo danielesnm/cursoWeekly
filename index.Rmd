@@ -489,8 +489,10 @@ background-size: 45%
 ]
 
 ---
-
-#Despues de la tarea
+background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true), url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true)
+background-position: 5% 5%, 95% 5%, 5% 95%, 95% 95% 
+background-size: 30%
+#Despues de la actividad
 
 ---
 background-image:url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Entrevista%20posterior.png?raw=true)
