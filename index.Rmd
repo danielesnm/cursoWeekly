@@ -292,6 +292,10 @@ background-size: 50%
 investigar la familiaridad de la persona con el uso de un calendario semanal, incluido el tipo de calendario que usa la persona.
 
 ---
+background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/durante%20la%20actividad.png?raw=true)
+background-position: 50% 50%
+background-size: 90%
+---
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Ficha%20APHS%201.png?raw=true)
 background-position: 95% 25%
 background-size: 60%
