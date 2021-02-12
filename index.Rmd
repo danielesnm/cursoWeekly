@@ -192,7 +192,8 @@ class: inverse, center, middle
 ---
 # **Vídeo de la admisitración de la APHS**
 
-<iframe width="810" height="565" src="https://www.youtube.com/watch?v=sbS5g2dHJiI&feature=youtu.be&ab_channel=DanielSalazar" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="810" height="565"
+<iframe width="1116" height="480" src="https://www.youtube.com/embed/sbS5g2dHJiI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 # **Administración**
