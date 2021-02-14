@@ -18,10 +18,6 @@ xaringanExtra::use_panelset()
 xaringanExtra::use_tile_view()
 ```
 
-```{r share-again, echo=FALSE}
-xaringanExtra::use_share_again()
-```
-
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/1.%20WCPA%20imagen.png?raw=true)
 background-position: 5% 50%
 background-size: 40%
@@ -286,6 +282,29 @@ background-size: 50%
 -  Ej. si comienza a las **10:20**, se le pedirá que informe cuando sean las **10:27**, y esto se escribiría en la hoja de instrucciones de la persona.]
 
 ---
+background-image:url(https://cdn.pixabay.com/photo/2016/03/31/14/37/check-mark-1292787_960_720.png), url(https://cdn-0.emojis.wiki/emoji-pics/messenger/cross-mark-messenger.png)
+background-position: 20% 3%, 80% 3%
+background-size: 15%, 15%
+
+# **Recordar...**
+
+<br><br><br>
+.pull-left[
+- Realizar la tarea en un **entorno bien iluminado, sin distracciones.**
+
+- **Organizar materiales** con precisión.
+
+- Proporcionar una **descripción completa y precisa** de las reglas e instrucciones.
+
+- **Registrar el tiempo** en la hoja de instrucciones de la persona.
+
+- **Señalar ejemplos** físicamente.
+
+- Pedir a la persona que **repita las instrucciones y reglas.**]
+
+.pull-right[- No hablar **rápido.**
+]
+---
 background-image: url(https://img.pngio.com/cosmetic-instructions-more-package-read-symbols-icon-instructions-png-512_512.png)
 background-position: 50% 85%
 background-size: 50%
@@ -494,6 +513,30 @@ background-size: 45%
 ]
 
 ---
+background-image:url(https://cdn.pixabay.com/photo/2016/03/31/14/37/check-mark-1292787_960_720.png), url(https://cdn-0.emojis.wiki/emoji-pics/messenger/cross-mark-messenger.png)
+background-position: 20% 3%, 80% 3%
+background-size: 15%, 15%
+
+# **Recordar...**
+
+<br><br><br>
+.pull-left[
+- **Registrar la hora** en que la persona ingresa **la primera y última cita.**
+
+- Observar el uso de **estrategias**, el cumplimiento de las **reglas** y el **orden de las citas.** 
+
+- **Permanecer atento en el desempeño de la persona** y registrar cualquier observación.
+
+- **Hacer preguntas** en los momentos correctos (2, 5 y 7 minutos).
+
+- Utilizar la **hoja de observaciones.**
+]
+
+.pull-right[- **No responder las preguntas** de la persona durante la evaluación.
+
+- **No participar** en una conversación con la persona.
+]
+---
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/despues%20de%20la%20actividad.png?raw=true)
 background-position: 50% 50%
 background-size: 100%
@@ -611,7 +654,30 @@ El examinador debe alentar a la persona a identificar los métodos específicos 
 
 - _Tomar notas sobre las citas en conflicto y hacer mayor uso de los folios para planificar mejor_
 ]
+---
+background-image:url(https://cdn.pixabay.com/photo/2016/03/31/14/37/check-mark-1292787_960_720.png), url(https://cdn-0.emojis.wiki/emoji-pics/messenger/cross-mark-messenger.png)
+background-position: 20% 3%, 80% 3%
+background-size: 15%, 15%
 
+# **Recordar...**
+
+<br><br><br>
+.pull-left[
+- **Registrar la hora** en que la persona ingresa **la primera y última cita.**
+
+- Observar el uso de **estrategias**, el cumplimiento de las **reglas** y el **orden de las citas.** 
+
+- **Permanecer atento en el desempeño de la persona** y registrar cualquier observación.
+
+- **Hacer preguntas** en los momentos correctos (2, 5 y 7 minutos).
+
+- Utilizar la **hoja de observaciones.**
+]
+
+.pull-right[- **No responder las preguntas** de la persona durante la evaluación.
+
+- **No participar** en una conversación con la persona.
+]
 ---
 background-image: url(https://github.com/danielesnm/cursoWeekly/blob/master/imagenes/Estrategias%20utilizadas.png?raw=true)
 background-position: 90% 40%
