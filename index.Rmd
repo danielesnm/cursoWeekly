@@ -774,3 +774,7 @@ background-size: 55%
 
 .pull-left[>##** 8. Resumen**
 ]
+---
+background-image: url(https://www.cajasietecontunegocio.com/images/recursos-humanos/10-preguntas.png)
+background-position: 50% 50%
+background-size: 80%
