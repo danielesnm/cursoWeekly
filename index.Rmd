@@ -1,8 +1,8 @@
 ---
 title: "Weekly Calendar Planning Activity <br> (Actividad de Planificación del Horario Semanal, APHS)"
 subtitle: "Joan Toglia"
-author: "Laboratorio de Neuropsicología y Actividades de la Vida Diaria"
-institute: "Centro de Investigación Mente Cerebro y Comportamiento (CIMCYC), Universidad de Granada"
+author: "Grupo de Neurociencia Cognitiva"
+institute: "Laboratorio de Neuropsicología y Actividades de la Vida Diaria, Universidad de Granada"
 date: "2020/06/26 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
