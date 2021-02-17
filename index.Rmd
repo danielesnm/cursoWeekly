@@ -30,7 +30,6 @@ class: center, top
 ## 1. Información general 
 ## 2. Descripción del instrumento
 ## 3. Administración del instrumento
-## 4. Calificación del instrumento
 ]
 
 
